@@ -1,1 +1,1 @@
-confşg
+config
